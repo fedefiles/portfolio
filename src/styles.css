@@ -74,7 +74,7 @@ p {
     width: 180px;
     height: 55px;
     border-radius: 30px;
-    background-color: rgb(42, 150, 212);
+    background-color: rgb(35 80 106);
     text-align: center;
     font-size: 30px;
     font-weight: 300;
@@ -164,7 +164,7 @@ hr {
 
 a {
     text-decoration: none;
-    color: rgb(38, 57, 141);
+    color: rgb(154 170 239);
 }
 
 .hamburger {
